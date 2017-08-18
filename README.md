@@ -5,3 +5,4 @@ DTE contract_generator created for users to easily generate a contract.
 <br/>Daoud Sleiman
 <br/>Brian Atiyeh
 <br/>External Librarys: mpdf, phpexcel
+<img src="images/home.png">
